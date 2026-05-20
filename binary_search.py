@@ -6,6 +6,8 @@ def binarysearch(arr, nb):
   right = len(arr) - 1
   
   arr_s = arr.sort()
+  while right <= left :
+    pass
   return arr
 
 print(binarysearch(numbers, 34))
