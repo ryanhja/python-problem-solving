@@ -7,6 +7,8 @@ def binarysearch(arr, nb):
   
   arr_s = arr.sort()
   while right <= left :
+    print(right)
+    print(left)
     pass
   return arr
 
